@@ -1,0 +1,56 @@
+.lists {
+    display: inline-block;
+    margin-right: 100px;
+}
+
+#unordered-list {
+    text-align: center;
+    background: linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 154, 0, 1) 10%, rgba(208, 222, 33, 1) 20%, rgba(79, 220, 74, 1) 30%, rgba(63, 218, 216, 1) 40%, rgba(47, 201, 226, 1) 50%, rgba(28, 127, 238, 1) 60%, rgba(95, 21, 242, 1) 70%, rgba(186, 12, 248, 1) 80%, rgba(251, 7, 217, 1) 90%, rgba(255, 0, 0, 1) 100%);
+    padding: 10px;
+}
+
+#title {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 150px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+.paragraphs {
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    font-size: 20px;
+    background: linear-gradient(90deg, rgba(255, 0, 0, 1) 0%, rgba(255, 154, 0, 1) 10%, rgba(208, 222, 33, 1) 20%, rgba(79, 220, 74, 1) 30%, rgba(63, 218, 216, 1) 40%, rgba(47, 201, 226, 1) 50%, rgba(28, 127, 238, 1) 60%, rgba(95, 21, 242, 1) 70%, rgba(186, 12, 248, 1) 80%, rgba(251, 7, 217, 1) 90%, rgba(255, 0, 0, 1) 100%);
+    padding: 10px;;
+}
+
+#paragraphs {
+    margin-top: 100px;
+}
+
+#second-section {
+    background-image: url(https://th.bing.com/th/id/OIP.vwwezFgUYcWi4Zol2grMkQHaF8?pid=ImgDet&rs=1); 
+        background-repeat: no-repeat;
+    background-size: 1800px;
+    height: 1000px;
+    padding-bottom: 250px;
+}
+
+#느낀점 {
+    padding-top: 100px;
+    font-size: 100px;
+}
+
+#four-questions {
+    background-image: url(https://cdn-images-1.medium.com/max/1200/0*xNiC13ejXb0tScCQ.jpeg);
+    text-align: center;
+    color: black;
+    height: 800px;
+    
+}
+
